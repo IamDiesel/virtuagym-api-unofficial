@@ -1,6 +1,14 @@
-# Virtuagym API Documentation
+# Virtuagym Unofficial API Documentation
 
 This documentation provides an overview of the Virtuagym API based on reverse-engineered network traffic. It covers the login process, fetching schedules, and managing event bookings.
+
+## ⚠️ Disclaimer & Legal Notice
+ 
+ 
+ * *No Affiliation:* This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Virtuagym or any of its subsidiaries or its affiliates.
+ * *Educational Purposes:* This documentation is provided for educational and research purposes (interoperability) only.
+ * *Terms of Service:* Using this API outside of the official applications may violate Virtuagym's Terms of Service. The authors of this repository are not responsible for any blocked accounts, damages, or legal consequences resulting from the use of this information. Use at your own risk.
+ * *No Credentials:* This repository does not contain any API keys, client secrets, or private authentication tokens.
 
 ## Base URLs
 
